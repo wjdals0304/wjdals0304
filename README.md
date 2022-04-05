@@ -1,16 +1,20 @@
-### Hi there 👋
+# 김정민
+ 
 
-<!--
-**wjdals0304/wjdals0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### iOS Developer
 
-Here are some ideas to get you started:
+> iOS, Swift 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My App 
+- [매매노트](https://github.com/wjdals0304/ios-daily-stock)
+
+### Project 
+- [새싹 프렌즈](https://github.com/wjdals0304/ios-sesac-friends)
+- [새싹 커뮤니티](https://github.com/wjdals0304/ios-sesac-farm)
+ 
+ 
+### Education 
+- AutoLayout
+- CloneCoding
+  
