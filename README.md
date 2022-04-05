@@ -15,6 +15,6 @@
  
  
 ### Education 
-- AutoLayout
-- CloneCoding
+- 오토레이아웃
+- 
   
