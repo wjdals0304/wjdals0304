@@ -14,7 +14,7 @@
 - [새싹 커뮤니티](https://github.com/wjdals0304/ios-sesac-farm)
  
  
-### Education 
+### Study 
 - 오토레이아웃
 - 클론코딩
   
