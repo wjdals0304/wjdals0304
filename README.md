@@ -18,5 +18,6 @@
 ### Study 
 - 오토레이아웃
 - [알고리즘](https://github.com/wjdals0304/Swift-algorithm) 
-- [Swift ](https://jmkim.tistory.com/category/IOS/swift)
+- [Swift](https://jmkim.tistory.com/category/IOS/swift)
+- [RxSwift]
   
